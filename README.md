@@ -9,6 +9,78 @@
 
 <img align="right" height="150" src="https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="Laptop Illustration" />
 
+<div align="right" height="150">
+  <svg
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  viewBox="0 0 841.9 595.3"
+  style="background-color: #282c34"
+>
+  <circle
+    cx="420.9"
+    cy="297.6"
+    r="45.7"
+    fill="#61dafb"
+  >
+    <animate
+      attributeName="r"
+      from="45.7"
+      to="60"
+      dur="1.5s"
+      repeatCount="indefinite"
+    />
+    <animate
+      attributeName="opacity"
+      from="1"
+      to="0.5"
+      dur="1.5s"
+      repeatCount="indefinite"
+    />
+  </circle>
+  <g fill="none" stroke="#61dafb" stroke-width="30">
+    <ellipse
+      rx="256.3"
+      ry="94.5"
+      transform="rotate(60 420.9 297.6)"
+    >
+      <animateTransform
+        attributeName="transform"
+        type="rotate"
+        from="60 420.9 297.6"
+        to="420 420.9 297.6"
+        dur="5s"
+        repeatCount="indefinite"
+      />
+    </ellipse>
+    <ellipse
+      rx="256.3"
+      ry="94.5"
+      transform="rotate(120 420.9 297.6)"
+    >
+      <animateTransform
+        attributeName="transform"
+        type="rotate"
+        from="120 420.9 297.6"
+        to="180 420.9 297.6"
+        dur="5s"
+        repeatCount="indefinite"
+      />
+    </ellipse>
+    <ellipse rx="256.3" ry="94.5">
+      <animateTransform
+        attributeName="transform"
+        type="rotate"
+        from="0 420.9 297.6"
+        to="360 420.9 297.6"
+        dur="5s"
+        repeatCount="indefinite"
+      />
+    </ellipse>
+  </g>
+</svg>
+
+</div>
+
 ## 🛠️ Skills & Tools
 
 <div align="left">
