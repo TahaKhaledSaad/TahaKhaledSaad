@@ -7,7 +7,7 @@
 
 ---
 
-<img align="right" borderRaduis="20px" height="150" src="https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="Laptop Illustration" />
+<img align="right" style="border-radius: 15px;"  height="150" src="https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="Laptop Illustration" />
 
 ## 🛠️ Skills & Tools
 
