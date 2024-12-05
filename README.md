@@ -7,79 +7,7 @@
 
 ---
 
-<img align="right" height="150" src="https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="Laptop Illustration" />
-
-<div align="right" height="150">
-  <svg
-  xmlns="http://www.w3.org/2000/svg"
-  xmlns:xlink="http://www.w3.org/1999/xlink"
-  viewBox="0 0 841.9 595.3"
-  style="background-color: #282c34"
->
-  <circle
-    cx="420.9"
-    cy="297.6"
-    r="45.7"
-    fill="#61dafb"
-  >
-    <animate
-      attributeName="r"
-      from="45.7"
-      to="60"
-      dur="1.5s"
-      repeatCount="indefinite"
-    />
-    <animate
-      attributeName="opacity"
-      from="1"
-      to="0.5"
-      dur="1.5s"
-      repeatCount="indefinite"
-    />
-  </circle>
-  <g fill="none" stroke="#61dafb" stroke-width="30">
-    <ellipse
-      rx="256.3"
-      ry="94.5"
-      transform="rotate(60 420.9 297.6)"
-    >
-      <animateTransform
-        attributeName="transform"
-        type="rotate"
-        from="60 420.9 297.6"
-        to="420 420.9 297.6"
-        dur="5s"
-        repeatCount="indefinite"
-      />
-    </ellipse>
-    <ellipse
-      rx="256.3"
-      ry="94.5"
-      transform="rotate(120 420.9 297.6)"
-    >
-      <animateTransform
-        attributeName="transform"
-        type="rotate"
-        from="120 420.9 297.6"
-        to="180 420.9 297.6"
-        dur="5s"
-        repeatCount="indefinite"
-      />
-    </ellipse>
-    <ellipse rx="256.3" ry="94.5">
-      <animateTransform
-        attributeName="transform"
-        type="rotate"
-        from="0 420.9 297.6"
-        to="360 420.9 297.6"
-        dur="5s"
-        repeatCount="indefinite"
-      />
-    </ellipse>
-  </g>
-</svg>
-
-</div>
+<img align="right" height="150" src="https://your-hosted-svg-link.svg" alt="React Logo Animation" />
 
 ## 🛠️ Skills & Tools
 
@@ -87,20 +15,19 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="30" alt="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" height="30" alt="Next.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" height="30" alt="SaSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="Tailwindcss" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="30" alt="Tailwind CSS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="Bootstrap" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="30" alt="GraphQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="30" alt="Material-UI" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="30" alt="vsCode" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="GitHub" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="Figma" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="NPM" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="30" alt="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="C++" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" alt="Redux" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" height="30" alt="Babel" />
 </div>
